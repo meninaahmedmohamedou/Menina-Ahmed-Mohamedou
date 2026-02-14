@@ -1,93 +1,69 @@
 # Menina-Ahmed-Mohamedou
 Portfolio Finance specialist 
-# 👋 Salut, je suis **Menina Ahmed Mohamedou (Menina Mohamedou)**
+# Hi, I’m Menina Ahmed Mohamedou (Menina Mohamedou)
 
-🎯 **Directrice Adjoint Comptabilité | Spécialiste Finance & Audit | Passionnée par la rigueur financière et l’apprentissage continu**
+Finance Professional & Banker | Audit & Accounting Specialist | Passionate about Financial Rigor and Continuous Learning
 
-Bienvenue sur mon portfolio GitHub ! Je suis une professionnelle de la finance basée en Mauritanie, spécialisée en comptabilité, audit, fiscalité et gestion financière. Je cherche constamment à élargir mes compétences et à relever de nouveaux défis pour améliorer la performance et la transparence financière.
-
----
-
-## 💼 À propos de moi
-
-- Passionnée par l’apprentissage continu et la rigueur financière  
-- Expérience solide en banque, audit, comptabilité et fiscalité  
-- Capacité à analyser et interpréter des données financières complexes pour soutenir la prise de décision stratégique  
-- Créatrice de contenu et partage de connaissances financières via LinkedIn  
-
-📍 F-Nord Extension Ksar, Nouakchott, Mauritanie  
-📧 meninemohamedou21@gmail.com | 📞 27681001  
-[LinkedIn](https://www.linkedin.com/in/menina-ahmed-mohamedou-354725183)
+Welcome to my GitHub portfolio! I am a dedicated finance professional and banker with a strong academic and professional background bridging finance and banking. Over the years, I have built a diverse career spanning accounting, audit, taxation, and financial management. This combination of experiences has shaped my vision and strengthened my commitment to **financial accuracy, operational integrity, and strategic growth**.
 
 ---
 
-## 🏢 Expérience Professionnelle
+## About Me
 
-**Directrice Adjoint Comptabilité** – Banque Al Wava Mauritanienne Islamique (BAMIS)  
-*09/2024 - Present*  
-- Rapprochement bancaire, lettrage et suivi des comptes internes  
-- État financier, suivi des dépôts et reporting mensuel BCM  
-- Analyse des ratios de liquidité et de couverture des risques  
-- Traitement de la balance de delta, rédaction de rapports mensuels  
-- Suivi budgétaire et optimisation des processus comptables  
+I am passionate about numbers—not only for their precision, but also for the logic and structure they bring to complex systems. I enjoy analyzing financial data, evaluating processes, and applying best practices to improve efficiency, transparency, and performance.
 
-**Cadre Auditrice Interne** – Banque Al Wava Mauritanienne Islamique (BAMIS)  
-*05/2023 - 09/2024*  
-- Élaboration de la cartographie des risques  
-- Missions d’audit interne et contrôle interne  
-- Suivi des risques et anomalies, reporting quotidien  
-- Rédaction de rapports trimestriels d’audit interne  
+Throughout my career, I have held roles as a **deputy finance and accounting manager, internal auditor, and tax accountant**, where I developed expertise in:
 
-**Comptable** – Bureau Mauritanien d’Expertise (BUMEX)  
-*11/2021 - 03/2023*  
-- Gestion de la paie et fiscalité d’une entreprise pétrolière sous-traitante  
-- Tenue de la comptabilité et déclarations fiscales et sociales  
-- Élaboration des états financiers de plusieurs entreprises, dont des succursales internationales  
-- Mission consulting : choix du régime fiscal pour une entreprise minière  
+- **Banking operations and financial management**  
+- **Risk management and compliance**  
+- **Internal controls and auditing**  
+- **Tax strategy and regulatory reporting**  
+- **Financial reporting and budgeting**  
+- **Process optimization and monitoring**
 
-**Stage en Comptabilité** – Direction des Finances / MATTEL  
-*08/2019 - 10/2019*  
-- Saisie des écritures comptables sur le logiciel SIGA  
-- Suivi des amortissements et reporting financier  
+I believe that finance is not just about numbers, but about creating clarity, structure, and actionable insights that drive organizational growth.  
+**As I often share on LinkedIn:** *"Finance, far from being fixed or rigid, is a powerful lever for transformation."*
 
 ---
 
-## 🛠 Compétences
+## Professional Philosophy
 
-**Domaines :** Comptabilité, Banque, Audit, Fiscalité, Gestion Financière  
-**Outils & logiciels :** DELTA, SIGA, SAGE, SPSS, Canva, Google Workspace, Microsoft Teams, Fullinteg  
-**Analyse & Reporting :** Analyse financière, monitoring, reporting, optimisation des processus  
+I am deeply committed to **personal and professional development**, not only in theory but in daily practice. I continuously seek opportunities to expand my skills, learn from new challenges, and adopt best practices in financial management. I firmly believe that **continuous improvement is the only sustainable path to growth**.
 
 ---
 
-## 📜 Certifications
+## Key Skills
 
-- Financial Analyst Professional Certificate – Institute of Management, Technology and Finance (03/2024)  
-- Executive Diploma in Finance Management – Institute of Management, Technology and Finance (03/2024)  
-- Executive Diploma in Operations Management – Udemy Online (05/2024)  
-- Fundamentals of Credit – Corporate Finance Institute (08/2024)  
-- Accounting Fundamentals – Corporate Finance Institute Online (02/2024)  
-- Certificat FinTech Course – Coursera (02/2024)  
-- Audit a Financial Model with Macabacas – CFA Online (04/2024)  
-- Certificate of Achievement, Upper-Intermediate Business English – Edukate Mauritania (09/2024)  
-- Séminaire Google Workspace – Mauricloud (11/2023)  
+- Banking Operations & Financial Management  
+- Audit & Internal Controls  
+- Accounting & Taxation  
+- Risk Management & Compliance  
+- Budgeting & Forecasting  
+- Process Optimization & Monitoring  
 
----
-
-## 🌐 Langues
-
-- Français – Native / Bilingual  
-- Arabe – Full Professional Proficiency  
+**Tools & Platforms:** DELTA, SIGA, SAGE, SPSS, Canva, Google Workspace, Microsoft Teams, Fullinteg  
 
 ---
 
-## 💡 Contact
+## Certifications
 
-📫 Pour collaborations ou projets financiers :  
-- LinkedIn : [https://www.linkedin.com/in/menina-ahmed-mohamedou-354725183](https://www.linkedin.com/in/menina-ahmed-mohamedou-354725183)  
-- Email : meninemohamedou21@gmail.com  
-- Téléphone : 27681001  
+- Financial Analyst Professional Certificate  
+- Executive Diploma in Finance Management  
+- Executive Diploma in Operations Management  
+- Fundamentals of Credit  
+- Accounting Fundamentals  
+- FinTech Course Certificate  
+- Audit a Financial Model with Macabacas  
+- Upper-Intermediate Business English  
 
 ---
 
-✨ *La rigueur financière crée la clarté. La discipline et la structure construisent la croissance.*
+## Languages
+
+- **French:** Native / Bilingual Proficiency  
+- **Arabic:** Full Professional Proficiency  
+- **English:** Upper-Intermediate  
+
+---
+
+**My mission:** To bring clarity, discipline, and structure to financial systems, ensuring operational excellence and sustainable growth.
