@@ -1,6 +1,6 @@
 # Menina-Ahmed-Mohamedou
 Portfolio Finance specialist 
-# I’m Menina Ahmed Mohamedou (Menina Mohamedou)
+# Hi, I’m Menina Ahmed Mohamedou (Menina Mohamedou)
 
 Finance Professional & Banker | Audit & Accounting Specialist | Passionate about Financial Rigor and Continuous Learning
 
@@ -65,6 +65,14 @@ I am deeply committed to **personal and professional development**, not only in 
 - **French:** Native / Bilingual Proficiency  
 - **Arabic:** Full Professional Proficiency  
 - **English:** Upper-Intermediate  
+
+---
+
+## Contact
+
+- **Email:** meninemohamedou21@gmail.com  
+- **LinkedIn:** [linkedin.com/in/menina-ahmed-mohamedou-354725183](https://www.linkedin.com/in/menina-ahmed-mohamedou-354725183)  
+- **Newsletter:** [Clarté Finance](https://www.linkedin.com/newsletters/clart%C3%A9-finance-by-menina-7356046709199626241)  
 
 ---
 
