@@ -1,6 +1,6 @@
 # Menina-Ahmed-Mohamedou
 Portfolio Finance specialist 
-# Hi, I’m Menina Ahmed Mohamedou (Menina Mohamedou)
+# I’m Menina Ahmed Mohamedou (Menina Mohamedou)
 
 Finance Professional & Banker | Audit & Accounting Specialist | Passionate about Financial Rigor and Continuous Learning
 
@@ -22,7 +22,9 @@ Throughout my career, I have held roles as a **deputy finance and accounting man
 - **Process optimization and monitoring**
 
 I believe that finance is not just about numbers, but about creating clarity, structure, and actionable insights that drive organizational growth.  
-**As I often share on LinkedIn:** *"Finance, far from being fixed or rigid, is a powerful lever for transformation."*
+**As I often share on LinkedIn:** *"Finance, far from being fixed or rigid, is a powerful lever for transformation."*  
+
+Check out my **LinkedIn profile** [here](https://www.linkedin.com/in/menina-ahmed-mohamedou-354725183) and my **newsletter Clarté Finance** [here](https://www.linkedin.com/newsletters/clart%C3%A9-finance-by-menina-7356046709199626241).
 
 ---
 
